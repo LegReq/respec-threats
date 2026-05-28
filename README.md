@@ -1,4 +1,4 @@
-# respec-threats
+# Respec-Threats
 
 A ReSpec rendering library for threat models
 
